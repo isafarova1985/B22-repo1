@@ -1,0 +1,3 @@
+we just publish our local git repo to remote GitHub.com repository
+Few things happened:
+1.It automatically created new remote Repo under your GitHub.com account.
